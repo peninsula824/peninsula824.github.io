@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src=""https://peninsula824.github.io/Tianyao.jpg" class="floatpic" width="360" height="480">
+<img src="https://peninsula824.github.io/Tianyao.jpg" class="floatpic" width="360" height="480">
 
 Here is **Tianyao Tan (Steven, 谭天耀)**.<br>
 
