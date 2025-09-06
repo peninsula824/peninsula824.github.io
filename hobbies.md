@@ -26,8 +26,6 @@ This page records my favorite hiking activities. These photos record my trip to 
 <img src="/images/hkust.jpg">
 <img src="/images/castle.jpg">
 <img src="/images/5120Lecture.jpg">
-<img src="/images/view1.jpg">
-<img src="/images/view2.jpg">
 
 </div>
 
