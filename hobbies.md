@@ -26,6 +26,9 @@ This page records my favorite hiking activities. These photos record my trip to 
 <img src="/images/hkust.jpg">
 <img src="/images/castle.jpg">
 <img src="/images/5120Lecture.jpg">
+<img src="/images/campus1.jpg">
+<img src="/images/view1.jpg">
+<img src="/images/view2.jpg">
 </div>
 <br>I like Hong Kong very much. I met old friends and made new friends here. I also had interesting teachers and a beautiful campus. This is bound to be an unforgettable memory.
 

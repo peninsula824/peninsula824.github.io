@@ -6,7 +6,7 @@ title: 主页中文版
 
 ## 关于我
 
-<img src="https://caihanlin.com/backup/caihalin(2025).JPG" class="floatpic">
+<img src="/images/aboutme.jpg" class="floatpic">
 
 <br>首先感谢您的阅读。我是谭天耀，2001年生，来自广东。
 
