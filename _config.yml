@@ -7,28 +7,28 @@ description: Two roads diverged in woods, I took the one less traveled by.  # St
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://caihanlin.com
+url: https://peninsula824.github.io/
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Tianyao Tan
+  avatar: Tianyao.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
-  email: hc663@cam.ac.uk
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  email: ttanag@connect.ust.hk.uk
+  cv: https://github.com/peninsula824/CV/blob/main/Tan%20Tianyao_CV.pdf
 
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
-  xiaohongshu: 5c27848f0000000005030c6f
-  bilibili: 594030035
+  #twitter: lancecai2002
+  github: https://github.com/peninsula824
+  #linkedin: hanlincai
+  #scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  #researchgate: https://www.researchgate.net/profile/Hanlin-Cai
+  #zhihu: https://www.zhihu.com/people/chlire
+  xiaohongshu: 5fa4c56a000000000100a8a1
+  #bilibili: 594030035
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -50,10 +50,10 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Publications
+  #- title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
+  #- title: Awards
+  #  url: /awards/
   - title: Hobbies
     url: /hobbies/
   - title: Blogs
