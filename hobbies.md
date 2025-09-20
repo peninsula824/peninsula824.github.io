@@ -39,7 +39,18 @@ This page records my favorite hiking activities. These photos record my trip to 
 </div>
 <br>I like Hong Kong very much. I met old friends and made new friends here. I also had interesting teachers and a beautiful campus. This is bound to be an unforgettable memory.
 
+## Hong Kong - Physics & ddm - Tung Ping Chau Marine
 
+<div class="third">
+<img src="/images/1.jpg">
+<img src="/images/2.jpg">
+<img src="/images/3.jpg">
+<img src="/images/4.jpg">
+<img src="/images/5.jpg">
+<img src="/images/6.jpg">
+</div>
+
+<br>I went to Tung Ping Chau and Tap Mun Island with the School of Physics. It was a pleasant trip. I met some friends from the DDM major, established deeper friendships with classmates from the Physics major, and experienced the beautiful scenery of Hong Kong's outlying islands. It was an unforgettable day.
 
 ## Past Hobbies
 
