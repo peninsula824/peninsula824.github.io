@@ -54,8 +54,18 @@ This page records my favorite hiking activities. These photos record my trip to 
 
 ## Past Hobbies
 
-I previously enjoyed League of Legends. However, I have no time to do any of these things recently.
+Cooking for yourself in Hong Kong is obviously an economical and affordable option. I like cooking. Although I can only cook some simple dishes now, cooking allows me to escape from scientific research life and truly feel the joy of ordinary fragments of life.
 
+<div class="third">
+<img src="/images/7.jpg">
+<img src="/images/8.jpg">
+<img src="/images/9.jpg">
+<img src="/images/10.jpg">
+<img src="/images/11.jpg">
+<img src="/images/12.jpg">
+</div>
+
+<br>I went to Tung Ping Chau and Tap Mun Island with the School of Physics. It was a pleasant trip. I met some friends from the DDM major, established deeper friendships with classmates from the Physics major, and experienced the beautiful scenery of Hong Kong's outlying islands. It was an unforgettable day.
 
 <!-- ## Chat with me
 
